@@ -39,6 +39,26 @@
             "location": "/test/#_3",
             "text": "",
             "title": "\u4e09\u7ea7\u6807\u9898"
+        },
+        {
+            "location": "/test2/",
+            "text": "This is a new page.\n\n\n\u4e00\u7ea7\u6807\u9898123\n\n\n\u4e8c\u7ea7\u6807\u9898456\n\n\n\u4e09\u7ea7\u6807\u9898789",
+            "title": "Test2"
+        },
+        {
+            "location": "/test2/#123",
+            "text": "",
+            "title": "\u4e00\u7ea7\u6807\u9898123"
+        },
+        {
+            "location": "/test2/#456",
+            "text": "",
+            "title": "\u4e8c\u7ea7\u6807\u9898456"
+        },
+        {
+            "location": "/test2/#789",
+            "text": "",
+            "title": "\u4e09\u7ea7\u6807\u9898789"
         }
     ]
 }
