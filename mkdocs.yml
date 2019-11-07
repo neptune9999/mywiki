@@ -1,4 +1,8 @@
 site_name: neptune's wiki
+
 nav:
     - Home: index.md
     - First: test.md
+    - 时空库API: timedata/timeDataApi.md
+#theme: readthedocs   #此样式不用安装
+theme: material
